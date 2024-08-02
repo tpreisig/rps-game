@@ -1,0 +1,15 @@
+# Ignore all files in the /node_modules/ directory
+/node_modules/
+
+# Ignore yarn.lock file
+yarn.lock
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore .DS_Store and Thumbs.db files
+.DS_Store
+Thumbs.db
+
+# Ignore the /dist/ directory, which contains built assets
+/dist/

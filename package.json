@@ -1,0 +1,17 @@
+{
+  "name": "rps-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Rock Paper Scissors game using Tailwind CSS",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.7"
+  }
+}
